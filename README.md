@@ -1,10 +1,6 @@
-# Invitor
+# E-Book
 
-A reactive mini-invitation-network created with Vue!!
-
-## Introduction
-
-University is a new environment for us. Unfortunately, student often lack of a medium to invite friends for activities such as sport, studying, singing or even simple task like eating lunch together. This is further confirmed after we have distributed questions for our housemates, coursemates and discussion with course teacher. This is why we are here to change the situation by mean of software(web application).
+A reactive mini Electronic Bookstore e-book project frontend
 
 ## Survey
 
@@ -25,30 +21,14 @@ To further investigate the usefulness of this idea, we have randomly selected 15
 
 ### Conclusion  
 
-This idea is doable and most probably able to spark some interest among our users especially students in Shanghai Jiao Tong University. Althought our survey sample size is small and not really targeted evenly among users in all backgrounds but the result seems promising. After we have consulted our tutor in charge, Ren Rui from School Of Software, SJTU, we can conclude that this is indeed a promising idea and hopefully we might be able to bring  more people together.
-
-## Screenshots and Overview
-
-![](img/1.png)
-
-![](img/2.png)
-
-![](img/3.png)
-
-![](img/4.png)
-
-![](img/5.jpg)
-
-![](img/6.jpg)
-
-![](img/7.png)  
+This idea is doable and most probably able to spark some interest among our users especially students in Shanghai Jiao Tong University. Althought our survey sample size is small and not really targeted evenly among users in all backgrounds but the result seems promising. After we have consulted our tutor in charge, Ren Rui from School Of Software, SJTU, we can conclude that this is indeed a promising idea and hopefully we might be able to bring more people together in a world of reading.
 
 ## Usage and Installation
 
 1. First, change to the main project directory:
 
 ```
-> cd invitor
+> cd e-Book
 ```
 
 2. Next, install all dependencies:
@@ -70,7 +50,7 @@ This idea is doable and most probably able to spark some interest among our user
 
 ```
 # In browser, visit:
-http://localhost:8080/#/
+http://localhost:3000/#/
 ```
 
 4. Enjoy!
@@ -87,11 +67,11 @@ Feel free to contact me or submit pull request if you encounter any bug
 
 ## Special Thanks
 
-Special thanks for Ren Rui tutor from School Of Software Enginnering, Shnaghai Jiao Tong University for guiding us throughout the entire project.
+Special thanks for Chen Hao Peng tutor from School Of Software Enginnering, Shnaghai Jiao Tong University for guiding us throughout the entire project.
 
 ### Author's Profile
 
-Meng Yit Koh 517030990022   
+Meng Yit Koh  
 Shanghai Jiao Tong University  
 Software Engineering  
 kmykoh97@outlook.com

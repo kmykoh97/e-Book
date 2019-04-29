@@ -6,6 +6,7 @@ import Login from '../login/Login';
 import Search from '../library/Search';
 import CartPage from '../cart/CartPage';
 import CheckOutPage from '../cart/CheckOutPage';
+import Ads from '../advertisement/ads.js';
 import AdminImage from "../../static/database/img/AdminImage.jpg";
 import MainPageImage from '../../static/database/img/MainPage.jpg';
 
@@ -70,6 +71,7 @@ class MainPage extends React.Component
                     <div>
                         <NavBar />
                     </div>
+                    <div style={{float: "left"}}><Ads /></div>
                     <div className="pusher">
                         <hr />
                         <Route exact path="/" render={() => <Home />} />

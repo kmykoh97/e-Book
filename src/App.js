@@ -1,5 +1,6 @@
 import React from 'react';
 import MainPage from './components/homepage/MainPage';
+import MenuExampleSecondaryPointing from './components/header/Header.js';
 import './App.css';
 
 
@@ -23,7 +24,10 @@ class App extends React.Component {
         // }
 
         return (
-            <MainPage />
+            <div>
+                <MenuExampleSecondaryPointing />
+                <MainPage />
+            </div>
         )
     }
 }
