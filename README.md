@@ -2,6 +2,12 @@
 
 A reactive mini Electronic Bookstore e-book project frontend
 
+## Announcement
+
+<b>17/5/2019</b>
+
+This front-end is outdated. New rewritten version that make use of Ajax and simple backend design is rewritten. They can be found [here](https://github.com/kmykoh97/Electronic-Bookstore-Frontend) 
+
 ## Survey
 
 To further investigate the usefulness of this idea, we have randomly selected 15 students from Shanghai Jiao Tong University to give their opinions. Below are breakdown of some important points which may spark some interest:
